@@ -1,4 +1,4 @@
 Esto es un archivo de ejemplo
 
-
+Se añade otra línea.
 
